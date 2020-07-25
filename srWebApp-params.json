@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "SRWebApp"
+    },
+
+    {
+        "ParameterKey": "ProjectName",
+        "ParameterValue": "UdacityProject"
+    },
+    
+    {
+        "ParameterKey": "EC2AccessKeyPair",
+        "ParameterValue": "Udacity-SomitraSR"
+    },
+
+    {
+        "ParameterKey": "EC2InstanceProfileRole",
+        "ParameterValue": "arn:aws:iam::891377212219:instance-profile/devudacity"
+    }
+
+]
