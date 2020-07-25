@@ -1,5 +1,5 @@
 # CloudFormation-Script
-Udacity - DevOps Engineer Nanodegree
+Udacity - DevOps Engineer Nanodegree Project
 
 This project is part of the Udacity Nanodegree program which showcases skills related to AWS CloudFormation. The objective of this project is to deliver a highly available web application. 
 
